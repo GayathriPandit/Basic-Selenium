@@ -1,0 +1,5 @@
+#Common Data
+#Fri Feb 23 16:13:29 IST 2024
+password=admin
+url=http\://localhost\:8888/
+username=admin
